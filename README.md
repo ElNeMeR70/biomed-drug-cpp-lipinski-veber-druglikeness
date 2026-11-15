@@ -1,0 +1,22 @@
+# ⚡ `biomed-drug-cpp-lipinski-veber-druglikeness`
+
+> **Cheminformatics, Molecular Docking & ADMET** — Sovereign **C++20** implementation (`lipinski-veber-druglikeness`).
+> Part of the **[ElNemer `bio-med-1000`](https://github.com/ElNeMeR70)** Mega-Ecosystem.
+
+---
+
+## 🚀 Overview
+- **Repository:** `ElNeMeR70/biomed-drug-cpp-lipinski-veber-druglikeness`
+- **Suite:** `bio-med-1000`
+- **Domain:** Cheminformatics, Molecular Docking & ADMET
+- **Language:** C++20 (`main.cpp`)
+- **Dependencies:** Zero external packages (100% standard library)
+
+## 💻 Quick Start
+```bash
+git clone https://github.com/ElNeMeR70/biomed-drug-cpp-lipinski-veber-druglikeness.git
+cd biomed-drug-cpp-lipinski-veber-druglikeness
+```
+
+## 📄 License
+MIT © [Eng. Mahmoud Bek ElNemer (`@ElNeMeR70`)](https://github.com/ElNeMeR70)
